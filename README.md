@@ -1,5 +1,7 @@
 # Grover Juice Bar
 
+![qr-code](qr-code.png)
+
 Halloween party drink menu site. Pure HTML — no dependencies, no build step.
 
 Open `groverjuice.html` in any browser.
